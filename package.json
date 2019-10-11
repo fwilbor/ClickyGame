@@ -1,0 +1,22 @@
+{
+  "name": "ClickyGame",
+  "version": "1.0.0",
+  "description": "A Memory Game made with React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwilbor/ClickyGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fwilbor/ClickyGame/issues"
+  },
+  "homepage": "https://github.com/fwilbor/ClickyGame#readme"
+}
