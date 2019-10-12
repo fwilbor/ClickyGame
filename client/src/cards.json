@@ -1,64 +1,62 @@
-  
 [
-    {
-        "id": 1,
-        "name": "Roses",
-        "image": "../imgs/varys.jpg"
-    },
-    {
-        "id": 2,
-        "name": "Lillies",
-        "image": "../imgs/bran.png"
-    },
-    {
-        "id": 3,
-        "name": "Blur",
-        "image": "../imgs/littlefinger.gif"
-    },
-    {
-        "id": 4,
-        "name": "Lace",
-        "image": "../imgs/jon.jpg"
-    },
-    {
-        "id": 5,
-        "name": "Bubble",
-        "image": "../imgs/cersei.png"
-    },
-    {
-        "id": 6,
-        "name": "Smoke",
-        "image": "../imgs/brienne.jpg"
-    },
-    {
-        "id": 7,
-        "name": "Flowers",
-        "image": "../imgs/jaime.jpg"
-    },
-    {
-        "id": 8,
-        "name": "La",
-        "image": "../imgs/daenarys.jpg"
-    },
-    {
-        "id": 9,
-        "name": "Garden",
-        "image": "../imgs/melisandre.jpg"
-    },
-    {
-        "id": 10,
-        "name": "Flare",
-        "image": "../imgs/jorah.jpg"
-    },
-    {
-        "id": 11,
-        "name": "Lion",
-        "image": "../imgs/sansa.jpg"
-    },
-    {
-        "id": 12,
-        "name": "Vivid",
-        "image": "../imgs/sam.jpg"
-    }
-
+  {
+    "id": 1,
+    "name": "Roses",
+    "image": "/images/Roses.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lillies",
+    "image": "/images/Lillies.JPG"
+  },
+  {
+    "id": 3,
+    "name": "Blur",
+    "image": "/images/Blur.JPG"
+  },
+  {
+    "id": 4,
+    "name": "LadyGold",
+    "image": "/images/LadyGold.JPG"
+  },
+  {
+    "id": 5,
+    "name": "Bubble",
+    "image": "/images/Bubble.JPG"
+  },
+  {
+    "id": 6,
+    "name": "Smoke",
+    "image": "/images/Smoke.JPG"
+  },
+  {
+    "id": 7,
+    "name": "Flowers",
+    "image": "/images/Flowers.JPG"
+  },
+  {
+    "id": 8,
+    "name": "La",
+    "image": "/images/La.JPG"
+  },
+  {
+    "id": 9,
+    "name": "LastWalk",
+    "image": "/images/LastWalk.JPG"
+  },
+  {
+    "id": 10,
+    "name": "Flare",
+    "image": "/images/Flare.JPG"
+  },
+  {
+    "id": 11,
+    "name": "Lion",
+    "image": "/images/Lion.JPG"
+  },
+  {
+    "id": 12,
+    "name": "Vivid",
+    "image": "/images/Vivid.JPG"
+  }
 ]
