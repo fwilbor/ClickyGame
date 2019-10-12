@@ -2,62 +2,62 @@
 [
     {
         "id": 1,
-        "name": "Varys",
+        "name": "Roses",
         "image": "../imgs/varys.jpg"
     },
     {
         "id": 2,
-        "name": "Bran",
+        "name": "Lillies",
         "image": "../imgs/bran.png"
     },
     {
         "id": 3,
-        "name": "Littlefinger",
+        "name": "Blur",
         "image": "../imgs/littlefinger.gif"
     },
     {
         "id": 4,
-        "name": "Jon Snow",
+        "name": "Lace",
         "image": "../imgs/jon.jpg"
     },
     {
         "id": 5,
-        "name": "Cersei",
+        "name": "Bubble",
         "image": "../imgs/cersei.png"
     },
     {
         "id": 6,
-        "name": "Brienne",
+        "name": "Smoke",
         "image": "../imgs/brienne.jpg"
     },
     {
         "id": 7,
-        "name": "Jaime",
+        "name": "Flowers",
         "image": "../imgs/jaime.jpg"
     },
     {
         "id": 8,
-        "name": "Daenerys",
+        "name": "La",
         "image": "../imgs/daenarys.jpg"
     },
     {
         "id": 9,
-        "name": "Lady Melisandre",
+        "name": "Garden",
         "image": "../imgs/melisandre.jpg"
     },
     {
         "id": 10,
-        "name": "Jorah",
+        "name": "Flare",
         "image": "../imgs/jorah.jpg"
     },
     {
         "id": 11,
-        "name": "Sansa",
+        "name": "Lion",
         "image": "../imgs/sansa.jpg"
     },
     {
         "id": 12,
-        "name": "Sam",
+        "name": "Vivid",
         "image": "../imgs/sam.jpg"
     }
 
