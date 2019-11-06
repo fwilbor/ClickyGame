@@ -21,6 +21,6 @@
   "homepage": "https://github.com/fwilbor/ClickyGame#readme",
   "dependencies": {
     "dotenv": "^8.1.0",
-    "mongoose": "^5.7.4"
+    "mongoose": "^5.7.5"
   }
 }
